@@ -1,0 +1,12 @@
+﻿  Cell.cpp
+  Forest.cpp
+Forest.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Manager.cpp
+Manager.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Manager.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 276 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ForestFire.vcxproj -> C:\Users\peter\Documents\Visual Studio 2015\Projects\ver2.0\ForestFire\Release\ForestFire.exe
+  ForestFire.vcxproj -> C:\Users\peter\Documents\Visual Studio 2015\Projects\ver2.0\ForestFire\Release\ForestFire.pdb (Full PDB)

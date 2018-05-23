@@ -1,0 +1,8 @@
+﻿  Manager.cpp
+  Main.cpp
+  Forest.cpp
+e:\gameoffire\ver2.0 color\forestfire\forestfire\forest.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cell.cpp
+  Generating Code...
+  ForestFire.vcxproj -> E:\GameOfFire\ver2.0 COLOR\ForestFire\Debug\ForestFire.exe
+  ForestFire.vcxproj -> E:\GameOfFire\ver2.0 COLOR\ForestFire\Debug\ForestFire.pdb (Full PDB)
